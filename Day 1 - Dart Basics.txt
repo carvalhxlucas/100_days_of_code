@@ -1,0 +1,61 @@
+﻿#100DaysOfCode - Challenge
+
+
+Day 1 - Dart Basics
+
+
+Dart is a programming language developed by Google, designed to create efficient and scalable applications, especially for mobile app development using the Flutter framework. Here are some of the basic principles of Dart:
+
+
+Static Typing:
+
+
+Dart is a statically typed language, meaning that variables have types defined at compile time. This helps detect errors earlier in the development process.
+
+
+Object Orientation:
+
+
+Dart is an object-oriented language, where everything is an object. It supports fundamental object-oriented programming concepts, such as classes and inheritance.
+
+
+Familiar Syntax:
+
+
+The Dart syntax is similar to many other programming languages, such as Java, JavaScript, and C#. This makes it easier for developers familiar with these languages to transition.
+
+
+Garbage Collection:
+
+
+Dart features a built-in garbage collector that automatically manages memory allocation and deallocation, making development less prone to memory leaks.
+
+
+Higher-Order Functions:
+
+
+Dart supports higher-order functions, allowing you to pass functions as arguments to other functions, return functions from other functions, and assign functions to variables.
+
+
+Async/Await:
+
+
+Dart simplifies working with asynchronous code using the `async` and `await` keywords. This is especially useful when dealing with input/output operations, such as API calls or file reading.
+
+
+Collections:
+
+
+Dart provides various data structures to manipulate collections, such as lists, sets, and maps, making working with data more convenient.
+
+
+Null Safety:
+
+
+Starting from version 2.12, Dart introduced the concept of null safety, which helps prevent many common errors related to null values.
+
+
+Frameworks:
+
+
+Dart is often used in conjunction with the Flutter framework for mobile app development, leveraging the language's efficiency to create fast and reactive user interfaces.
